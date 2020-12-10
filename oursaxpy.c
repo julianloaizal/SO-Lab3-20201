@@ -63,7 +63,7 @@ main (int argc, char *argv[])
   unsigned int seed = 1;
   p = 10000000;
   int n_threads = 2;
-  int max_iters = 20;
+  int max_iters = 1000;
   // Variables to perform SAXPY operation
   int i;
   // Variables to get execution time
